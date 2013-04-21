@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">μPhonetic</string>
+    <string name="app_ime_label">μPhonetic 微注音</string>
+	<string name="app_settings_label">μPhonetic 設定</string>
+	<string name="latin_keyboard_name">英數模式</string>
+	<string name="phonetic_keyboard_name">注音模式</string>
+</resources>
